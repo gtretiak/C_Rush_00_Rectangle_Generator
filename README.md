@@ -9,12 +9,11 @@ The program prints a rectangle using the following rules:
     The top and bottom borders, excluding corners, use 'B'.
     The left and right borders, excluding corners, also use 'B'.
     The internal space is filled with blank spaces ' '.
-
-Example (Input: ./rush 5 3)
-
-ABBBA
-B   B
-CBBBC
+    
+    Example (Input: ./rush 5 3)
+    ABBBA
+    B   B
+    CBBBC
 
 🛠️ Techniques Used
 
@@ -29,12 +28,10 @@ CBBBC
 
 🌍 Real-World Applications
 
-While this project is mainly educational, it reinforces several foundational software engineering skills relevant to real-world development:
-
-    Rendering logic – Similar logic can be used for UI layout engines or basic graphic editors.
-    Input validation – Prepares developers to handle user inputs gracefully.
-    Terminal-based tools – Useful in building text-based UIs, games (e.g., roguelikes), or dashboard utilities.
-    Algorithmic thinking – Encourages clean structuring and edge case handling.
+    Rendering logic.
+    Input validation.
+    Terminal-based tools.
+    Algorithmic thinking.
 
 🚀 Getting Started
 ✅ Requirements
