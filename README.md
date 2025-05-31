@@ -2,14 +2,15 @@
 A simple C program that generates ASCII-art rectangles with decorative borders based on provided dimensions: width and height.
 🔍 How It Works
 
-The program prints a rectangle using the following rules: 
+The program prints a rectangle using the following rules:
+
     1. The corners are marked with 'A' (top-left and top-right) and 'C' (bottom-left and bottom-right). 
     2. The top and bottom borders, excluding corners, use 'B'. 
     3. The left and right borders, excluding corners, also use 'B'. 
     4. The internal space is filled with blank spaces ' '. 
 
 Example (Input: ./rush 5 3)
- 
+
 ABBBA 
 B   B 
 CBBBC 
@@ -18,13 +19,13 @@ CBBBC
     - C Standard Library: 
         * unistd.h for write() system call 
         * stdlib.h for atoi() 
-    - Basic Programming Concepts: 
-        * Command-line arguments 
-        * Nested loops 
-        * Character-based conditionals 
+    - Basic Programming Concepts:
+        * Command-line arguments
+        * Nested loops
+        * Character-based conditionals
         * Modular function design (ft_putchar, rush) 
 
-🌍 Real-World Applications 
+🌍 Real-World Applications
     - Rendering logic. 
     - Input validation. 
     - Terminal-based tools. 
