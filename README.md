@@ -31,7 +31,10 @@ The program prints a rectangle using the following rules:
     Rendering logic foundations.
     Input validation.
     Terminal-based tools.
-    Algorithmic thinking.
+    Practical Use:
+    1. Medical Device for patient monitoring uses character-based rectangle rendering to create visual boundaries around vital sign displays, alarm settings, and device status information.
+    2. Factory automation system uses ASCII rectangles on simple LCD screens to create boundaries around the blocks: temperature, pressure, etc.
+    3. ATM machine uses character-based rectangles to separate account balance information, transaction options, and security messages on monochrome terminal screens.
 
 🚀 Getting Started
 ✅ Requirements
