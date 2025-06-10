@@ -28,7 +28,7 @@ The program prints a rectangle using the following rules:
 
 🌍 Real-World Applications
 
-    Rendering logic.
+    Rendering logic foundations.
     Input validation.
     Terminal-based tools.
     Algorithmic thinking.
